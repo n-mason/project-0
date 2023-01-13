@@ -1,4 +1,4 @@
-#
+# testing git comment
 # Recipes for building and installing projects.
 # We will always have a recipe called "install" and
 # one called "run". (At least, that's the plan.)
